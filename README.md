@@ -1,2 +1,5 @@
 # msib-kelompok-3
-Percobaan
+
+Nama : Dian RizkY aLFAJRI
+Kelompok : 3
+NIM : 5554210051
